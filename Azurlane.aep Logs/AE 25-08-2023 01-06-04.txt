@@ -1,0 +1,17 @@
+Adobe After Effects v23.4 Windows 64 render log for project “Azurlane.aep”
+
+Rendering started on 25/08/2023 at 01:06:04
+
+  25/08/2023 01:06:04: Starting composition “main”.
+
+  Output To: C:\Users\User\Documents\Projects\Video\Azurlane Anniversary\Azur-lane-Edit\Preview\main_1.mp4  After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\eb\ebf0dc91-0eb1-53c8-0e24-4f278af10646.ADBE LCV.B3A0635.AAAAAAAAAACABwAAOAQAAAAAAAAAAAAAgAcAADgEAAAAAAAAAAAAAIAHAAA4BAAAAAAAAAAAAACABwAAOAQAAAIAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\eb\ebf0dc91-0eb1-53c8-0e24-4f278af10646.ADBE LCV.B3A0635.AAAAAAAAAACABwAAOAQAAAAAAAAAAAAAgAcAADgEAAAAAAAAAAAAAIAHAAA4BAAAAAAAAAAAAACABwAAOAQAAAIAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\88\88b8c327-1a1c-59c9-3d5a-1adc8a364131.ADBE LCV.B3A0635.AAAAAAAAAADwCgAA8AoAAAAAAAAAAAAA8AoAAPAKAAAAAAAAAAAAAPAKAADwCgAAAAAAAAAAAADwCgAA8AoAAAIAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\88\88b8c327-1a1c-59c9-3d5a-1adc8a364131.ADBE LCV.B3A0635.AAAAAAAAAADwCgAA8AoAAAAAAAAAAAAA8AoAAPAKAAAAAAAAAAAAAPAKAADwCgAAAAAAAAAAAADwCgAA8AoAAAIAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\b4\b425aa8d-ea7c-7bde-259f-1fb5a11f63de.ADBE ICV.B3A0635.AAAAAPAK8Ao=.aecache'.  25/08/2023 01:06:57: Finished composition “main”.
+
+
+  25/08/2023 01:06:57: Starting composition “main”.
+
+  Output To: C:\Users\User\Documents\Projects\Video\Azurlane Anniversary\Azur-lane-Edit\Preview\main_2.avi  After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\36\36791e04-7112-174c-3b03-87b6b59a8466.ADBE LCV.B3A0635.AAAAAAAAAACICwAA7gIAAAAAAAAAAAAAiAsAAO4CAAAAAAAAAAAAAIgLAADuAgAAAAAAAAAAAACICwAA7gIAAAAAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\ee\ee2e2b45-5b51-d6cc-db42-f483cebf45e6.ADBE LCV.B3A0635.AAAAAAAAAACABwAAOAQAAAAAAAAAAAAAgAcAADgEAAAAAAAAAAAAAIAHAAA4BAAAAAAAAAAAAACABwAAOAQAAAIAAAA=.aecache'.After Effects warning: Could not open the file 'C:\Users\User\AppData\Local\Temp\Adobe\After Effects\23.4\Disk Cache - DESKTOP-0MEN3PD.noindex\e5\e5e49077-8a37-76dc-4ed9-33dcd57512b1.ADBE ICV.B3A0635.AAAAADgEgAc=.aecache'.  25/08/2023 01:07:40: Finished composition “main”.
+
+
+  Total Time Elapsed: 1 Min, 36 Sec
+Log closed on 25/08/2023 at 01:07:40
+
